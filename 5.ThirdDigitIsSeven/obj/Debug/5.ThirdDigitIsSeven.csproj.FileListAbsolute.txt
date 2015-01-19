@@ -1,0 +1,5 @@
+c:\users\sve\documents\visual studio 2013\Projects\3.OperatorsExpressionsStatements-Homework\5.ThirdDigitIsSeven\bin\Debug\5.ThirdDigitIsSeven.exe.config
+c:\users\sve\documents\visual studio 2013\Projects\3.OperatorsExpressionsStatements-Homework\5.ThirdDigitIsSeven\bin\Debug\5.ThirdDigitIsSeven.exe
+c:\users\sve\documents\visual studio 2013\Projects\3.OperatorsExpressionsStatements-Homework\5.ThirdDigitIsSeven\bin\Debug\5.ThirdDigitIsSeven.pdb
+c:\users\sve\documents\visual studio 2013\Projects\3.OperatorsExpressionsStatements-Homework\5.ThirdDigitIsSeven\obj\Debug\5.ThirdDigitIsSeven.exe
+c:\users\sve\documents\visual studio 2013\Projects\3.OperatorsExpressionsStatements-Homework\5.ThirdDigitIsSeven\obj\Debug\5.ThirdDigitIsSeven.pdb

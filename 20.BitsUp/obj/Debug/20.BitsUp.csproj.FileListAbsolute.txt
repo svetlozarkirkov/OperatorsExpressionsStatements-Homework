@@ -1,0 +1,5 @@
+C:\Users\Sve\Documents\Visual Studio 2013\Projects\3.OperatorsExpressionsStatements-Homework\20.BitsUp\bin\Debug\20.BitsUp.exe.config
+C:\Users\Sve\Documents\Visual Studio 2013\Projects\3.OperatorsExpressionsStatements-Homework\20.BitsUp\bin\Debug\20.BitsUp.exe
+C:\Users\Sve\Documents\Visual Studio 2013\Projects\3.OperatorsExpressionsStatements-Homework\20.BitsUp\bin\Debug\20.BitsUp.pdb
+C:\Users\Sve\Documents\Visual Studio 2013\Projects\3.OperatorsExpressionsStatements-Homework\20.BitsUp\obj\Debug\20.BitsUp.exe
+C:\Users\Sve\Documents\Visual Studio 2013\Projects\3.OperatorsExpressionsStatements-Homework\20.BitsUp\obj\Debug\20.BitsUp.pdb

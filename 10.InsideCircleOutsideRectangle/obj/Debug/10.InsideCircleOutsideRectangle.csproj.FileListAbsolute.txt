@@ -1,0 +1,6 @@
+C:\Users\Sve\documents\visual studio 2013\Projects\3.OperatorsExpressionsStatements-Homework\10.InsideCircleOutsideRectangle\bin\Debug\10.InsideCircleOutsideRectangle.exe.config
+C:\Users\Sve\documents\visual studio 2013\Projects\3.OperatorsExpressionsStatements-Homework\10.InsideCircleOutsideRectangle\bin\Debug\10.InsideCircleOutsideRectangle.exe
+C:\Users\Sve\documents\visual studio 2013\Projects\3.OperatorsExpressionsStatements-Homework\10.InsideCircleOutsideRectangle\bin\Debug\10.InsideCircleOutsideRectangle.pdb
+C:\Users\Sve\documents\visual studio 2013\Projects\3.OperatorsExpressionsStatements-Homework\10.InsideCircleOutsideRectangle\obj\Debug\10.InsideCircleOutsideRectangle.csprojResolveAssemblyReference.cache
+C:\Users\Sve\documents\visual studio 2013\Projects\3.OperatorsExpressionsStatements-Homework\10.InsideCircleOutsideRectangle\obj\Debug\10.InsideCircleOutsideRectangle.exe
+C:\Users\Sve\documents\visual studio 2013\Projects\3.OperatorsExpressionsStatements-Homework\10.InsideCircleOutsideRectangle\obj\Debug\10.InsideCircleOutsideRectangle.pdb

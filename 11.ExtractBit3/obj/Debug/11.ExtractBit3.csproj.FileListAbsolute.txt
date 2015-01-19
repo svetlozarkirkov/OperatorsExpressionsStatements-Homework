@@ -1,0 +1,5 @@
+C:\Users\Sve\documents\visual studio 2013\Projects\3.OperatorsExpressionsStatements-Homework\11.ExtractBit3\bin\Debug\11.ExtractBit3.exe.config
+C:\Users\Sve\documents\visual studio 2013\Projects\3.OperatorsExpressionsStatements-Homework\11.ExtractBit3\bin\Debug\11.ExtractBit3.exe
+C:\Users\Sve\documents\visual studio 2013\Projects\3.OperatorsExpressionsStatements-Homework\11.ExtractBit3\bin\Debug\11.ExtractBit3.pdb
+C:\Users\Sve\documents\visual studio 2013\Projects\3.OperatorsExpressionsStatements-Homework\11.ExtractBit3\obj\Debug\11.ExtractBit3.exe
+C:\Users\Sve\documents\visual studio 2013\Projects\3.OperatorsExpressionsStatements-Homework\11.ExtractBit3\obj\Debug\11.ExtractBit3.pdb

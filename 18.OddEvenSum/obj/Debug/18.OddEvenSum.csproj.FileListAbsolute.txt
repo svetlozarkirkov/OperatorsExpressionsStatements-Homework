@@ -1,0 +1,5 @@
+C:\Users\Sve\Documents\Visual Studio 2013\Projects\3.OperatorsExpressionsStatements-Homework\18.OddEvenSum\bin\Debug\18.OddEvenSum.exe.config
+C:\Users\Sve\Documents\Visual Studio 2013\Projects\3.OperatorsExpressionsStatements-Homework\18.OddEvenSum\bin\Debug\18.OddEvenSum.exe
+C:\Users\Sve\Documents\Visual Studio 2013\Projects\3.OperatorsExpressionsStatements-Homework\18.OddEvenSum\bin\Debug\18.OddEvenSum.pdb
+C:\Users\Sve\Documents\Visual Studio 2013\Projects\3.OperatorsExpressionsStatements-Homework\18.OddEvenSum\obj\Debug\18.OddEvenSum.exe
+C:\Users\Sve\Documents\Visual Studio 2013\Projects\3.OperatorsExpressionsStatements-Homework\18.OddEvenSum\obj\Debug\18.OddEvenSum.pdb
